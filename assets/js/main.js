@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Naswih Abdurahiman", "intern at TinkerHub", "tech lead at TECHSIAS" ],
+      strings: ["I'm Naswih Abdurahiman", "Intern at TinkerHub", "Tech lead at TECHSIAS" ],
       typeSpeed: 100,
       loop: true,
     });
